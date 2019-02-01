@@ -1,7 +1,7 @@
 # 岐阜大学プログラミングサークルに関する一連の規約
 
 岐阜大学プログラミングサークルの構成員は、このリポジトリの全ての規約を守る義務があります。
-これら規約に疑問が生じた場合は [Issue](https://github.com/prog-g/wiki/issues/new) を、改定の必要が生じた場合は [Pull Request](https://github.com/prog-g/wiki/pulls) を送ってください。
+これら規約に疑問が生じた場合は [Issue](https://github.com/prog-g/wiki/issues/new) を、改定の必要が生じた場合は [Pull request](https://github.com/prog-g/wiki/pulls) を送ってください。
 
 ## 規約一覧
 
